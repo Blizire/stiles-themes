@@ -1,0 +1,3 @@
+[submodule "stiles.nvim"]
+	path = stiles.nvim
+	url = https://github.com/Blizire/stiles.nvim.git
